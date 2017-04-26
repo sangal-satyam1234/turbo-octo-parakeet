@@ -8,3 +8,7 @@ Requirements :
 2) javaml libraries
 
 
+Make sure that all jar libraries are in WEB-INF/lib folder of your server . 
+All java files should be in WEB-INF/classes/project folder. Here the package name is "project". The .jsp must deploy easily then if all directories are correctly placed.
+
+
