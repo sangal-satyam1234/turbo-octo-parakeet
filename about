@@ -12,3 +12,8 @@ Make sure that all jar libraries are in WEB-INF/lib folder of your server .
 All java files should be in WEB-INF/classes/project folder. Here the package name is "project". The .jsp must deploy easily then if all directories are correctly placed.
 
 
+Yet to add :-
+1) Comments on what is happening where .
+2) Bring movie names ,genre and images by extending the database. 
+3) Security to the webpage.
+4) Add new inputs from user to the training dataset.
